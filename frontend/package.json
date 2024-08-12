@@ -16,7 +16,7 @@
     "tailwind-merge": "^2",
     "@radix-ui/react-slot": "^1",
     "class-variance-authority": "^0.7",
-    "lucide-react": "^0.291",
+    "lucide-react": "^0.414.0",
     "remark": "^14.0.3",
     "remark-code-import": "^1.2.0",
     "remark-gfm": "^3.0.1",
